@@ -74,6 +74,63 @@ name = True
 print (type (name))
 
 
+# In[15]:
+
+
+list = [1,2,3]
+print (type(list))
+list.append (4)
+print (list [3])
+
+
+# In[12]:
+
+
+print (list[2])
+
+
+# In[13]:
+
+
+print (list[0])
+
+
+# In[14]:
+
+
+#touple - when I don't want anyone to change my data
+
+
+# In[16]:
+
+
+dict = [{
+    "name": "John Doe", "age": 21, "net worth": 5213.4
+}]
+print(type(list))
+print (list)
+
+
+# In[17]:
+
+
+dict = [{
+    "name": "John Doe", "age": 21, "net worth": 5213.4
+}]
+print(type(dict))
+print (dict)
+
+
+# In[18]:
+
+
+dict = [{
+    "name": "John Doe", "age": 21, "net worth": 5213.4
+}]
+print(type(dict))
+print (dict)
+
+
 # In[ ]:
 
 
